@@ -1,7 +1,7 @@
--  profesora Robertalfernandes
--  tecnologia e inovação
-  -  Cepav - 3 serie C
-
+profesora Robertalfernandes
+colegio Cepav
+leciono tecnologia e inovação
+turma 3 serie C
 
 <!---
 Robertalfernandes/Robertalfernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
